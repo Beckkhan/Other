@@ -1,1 +1,1 @@
-# Other
+Программа WeatherBot для приложения Telegram
